@@ -31,10 +31,4 @@
 Since the code is saved as main.py on the ESP32, it will automatically run on boot.
 This means every time the ESP32 is powered on, it connects to WiFi and starts logging.
 
-### Future Improvements
 
-Add a simple dashboard (HTML + Chart.js) to visualize logged data in real-time.
-
-Store data in a database (SQLite, InfluxDB, etc.) instead of CSV.
-
-Add more sensors (light, air pressure, etc.).
